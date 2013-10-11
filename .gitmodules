@@ -9,4 +9,4 @@
 	url = https://github.com/mattn/emmet-vim
 [submodule "numbers.vim"]
 	path = numbers.vim
-	url = https://github.com/myusuf3/numbers.vim
+	url = https://github.com/myusuf3/numbers.vim.git

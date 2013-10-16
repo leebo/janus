@@ -1,12 +1,12 @@
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/bling/vim-airline.git
-[submodule "delimitMate"]
-	path = delimitMate
-	url = https://github.com/Raimondi/delimitMate.git
 [submodule "emmet-vim"]
 	path = emmet-vim
 	url = https://github.com/mattn/emmet-vim
 [submodule "numbers.vim"]
 	path = numbers.vim
 	url = https://github.com/myusuf3/numbers.vim.git
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git

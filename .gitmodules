@@ -10,3 +10,6 @@
 [submodule "auto-pairs"]
 	path = auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "tmuxline.vim"]
+	path = tmuxline.vim
+	url = https://github.com/edkolev/tmuxline.vim.git

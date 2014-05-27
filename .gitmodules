@@ -13,3 +13,6 @@
 [submodule "tmuxline.vim"]
 	path = tmuxline.vim
 	url = https://github.com/edkolev/tmuxline.vim.git
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git

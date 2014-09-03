@@ -16,9 +16,6 @@
 [submodule "vim-gitgutter"]
 	path = vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
-[submodule "vim-jekyll"]
-	path = vim-jekyll
-	url = https://github.com/parkr/vim-jekyll.git
 [submodule "vim-eco"]
 	path = vim-eco
 	url = https://github.com/AndrewRadev/vim-eco.git

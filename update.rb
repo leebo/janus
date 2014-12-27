@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# encoding: utf-8
-
+puts "update janus"
+`cd ~/.vim && rake`
 puts "updating submodule please wait"
 `git submodule foreach git pull origin master`

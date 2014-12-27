@@ -1,0 +1,3 @@
+call janus#disable_plugin('narrowregion')
+let mapleader = ','
+set shell=/bin/sh

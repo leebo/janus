@@ -28,3 +28,9 @@
 [submodule "vim-angular"]
 	path = vim-angular
 	url = git://github.com/burnettk/vim-angular.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "angular-vim-snippets"]
+	path = angular-vim-snippets
+	url = https://github.com/matthewsimo/angular-vim-snippets.git

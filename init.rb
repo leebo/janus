@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+`curl -Lo- https://bit.ly/janus-bootstrap | bash`
 `rm -Rf ~/.janus`
 `rm ~/.vimrc.after`
 `rm ~/.vimrc.before`

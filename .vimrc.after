@@ -2,11 +2,7 @@ set t_Co=256
 set noswapfile
 set mouse=a
 set guifont=Monaco\ for\ Powerline:h16
-if has("gui_running")
-  let g:airline_theme = 'light'
-else
-  let g:airline_theme = 'powerlineish'
-endif
+let g:airline_theme = 'powerlineish'
 let g:airline_powerline_fonts=1
 color molokai
 nmap zz ZZ

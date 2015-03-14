@@ -1,3 +1,4 @@
 call janus#disable_plugin('narrowregion')
 set shell=/bin/sh
 let mapleader = ','
+au BufNewFile,BufRead *.json.jbuilder set ft=ruby

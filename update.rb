@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 puts "update janus"
-`cd ~/.vim && rake`
+puts `git submodule foreach git pull`

@@ -37,3 +37,6 @@
 [submodule "vim-jade"]
 	path = vim-jade
 	url = https://github.com/digitaltoad/vim-jade
+[submodule "vim-trailing-whitespace"]
+	path = vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace.git

@@ -4,3 +4,27 @@ let mapleader = ','
 au BufNewFile,BufRead *.json.jbuilder set ft=ruby
 let g:airline_theme = 'powerlineish'
 let g:airline_powerline_fonts=1
+
+let g:airline_mode_map = {
+      \ '__' : '-',
+      \ 'n'  : 'N',
+      \ 'i'  : 'I',
+      \ 'R'  : 'R',
+      \ 'c'  : 'C',
+      \ 'v'  : 'V',
+      \ 'V'  : 'V',
+      \ '' : 'V',
+      \ 's'  : 'S',
+      \ 'S'  : 'S',
+      \ '' : 'S',
+      \ }
+
+let g:tmuxline_preset = {
+      \'a'    : '#S',
+      \'b'    : '#W',
+      \'c'    : '#(whoami)',
+      \'win'  : '#I #W',
+      \'cwin' : '#I #W',
+      \'x'    : '#(uptime | cud -d " " -f 1,2,3)',
+      \'y'    : '%Y-%m-%d %H:%M',
+      \'z'    : '#H'}

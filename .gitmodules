@@ -40,3 +40,6 @@
 [submodule "vim-trailing-whitespace"]
 	path = vim-trailing-whitespace
 	url = https://github.com/bronson/vim-trailing-whitespace.git
+[submodule "delimitMate"]
+	path = delimitMate
+	url = https://github.com/Raimondi/delimitMate
